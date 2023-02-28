@@ -1,0 +1,8 @@
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\SequenciaFibonacci.exe.config
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\SequenciaFibonacci.exe
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\SequenciaFibonacci.pdb
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\SequenciaFibonacci.csproj.AssemblyReference.cache
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\SequenciaFibonacci.csproj.SuggestedBindingRedirects.cache
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\SequenciaFibonacci.csproj.CoreCompileInputs.cache
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\SequenciaFibonacci.exe
+E:\Teu\Dev\Desafios Balta\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\SequenciaFibonacci.pdb
